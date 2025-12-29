@@ -6,6 +6,9 @@ public class ArrayListKahoot {
     public static void main(String[] args) {
 
 
+        System.out.println("We study GIT");
+
+
         System.out.println("----------------------- Kahoot_4 ---------------------------------------");
         ArrayList<String> cars= new ArrayList<>();
                 cars.add("Volvo");
