@@ -8,6 +8,8 @@ public class ArrayListPractices {
     public static void main(String[] args) {
 
         System.out.println(" Hello Group7");
+        System.out.println("--------------");
+        System.out.println("\t\t   ^ ");
 
         // ----------- ArrayList Structure -----------------------
 
