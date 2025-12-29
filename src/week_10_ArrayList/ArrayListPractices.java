@@ -11,6 +11,8 @@ public class ArrayListPractices {
         System.out.println("--------------");
         System.out.println("\t\t   ^ ");
 
+        System.out.println("Nice job friends, please continue studting with this performance.");
+
         // ----------- ArrayList Structure -----------------------
 
        /* String[] strArray = new String[5];
