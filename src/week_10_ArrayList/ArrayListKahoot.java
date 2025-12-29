@@ -7,6 +7,7 @@ public class ArrayListKahoot {
 
 
         System.out.println("We study GIT");
+        System.out.println("We study GITHUB");
 
 
         System.out.println("----------------------- Kahoot_4 ---------------------------------------");
